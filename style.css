@@ -1,0 +1,14 @@
+h1{
+    font-size: 60px;
+    color: aquamarine;
+    border: 5px dashed aqua;
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10%;
+
+}
+.test2{
+    background-color: rgba(197, 166, 154, 0.733);
+    text-align: center;
+}
